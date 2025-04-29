@@ -1,0 +1,4 @@
+/mvnw text eol=lf
+*.cmd text eol=crlf
+
+C:\Users\acer\Desktop\PROJECTS\MicroservicesApiGateway\MicroservicesApiGateway\src\main\resources\application.properties
